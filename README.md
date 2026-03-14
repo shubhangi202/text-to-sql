@@ -92,8 +92,8 @@ To fetch all tracks of an artist, the workflow joins `Artist → Album → Track
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/agentic-text-to-sql.git
-cd agentic-text-to-sql
+git clone https://github.com/shubhangi202/text-to-sql.git
+cd text-to-sql
 ```
 
 2. Install dependencies:
